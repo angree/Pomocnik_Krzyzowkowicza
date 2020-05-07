@@ -1171,7 +1171,7 @@ int main()
 					pozycja--;
 					wcisniety = 1;
 				}
-			}
+			} 
 
 			if( ((k==23309) || (k==17165)) && (wcisniety==0) ) { //enter
 				pozycja=0;
